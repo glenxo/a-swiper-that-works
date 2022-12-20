@@ -1,1 +1,1 @@
-# lift-intl-2
+# lift-intl-2 is a testing purposes repo to hold a demo swiper page until i figure how to do multiple htmls to show online on a single repo.
