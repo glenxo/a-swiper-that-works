@@ -1,1 +1,1 @@
-# lift-intl-2 is a testing purposes repo.
+# This is a simple swiper that really works.
